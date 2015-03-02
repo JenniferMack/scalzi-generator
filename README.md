@@ -19,4 +19,4 @@ On a Mac, the output can be sent to the clipboard.
 
 ## Workflow
 
-The `scalzi_generator.workflow.zip` unpacks into a workflow file that is used by the Automator app. From there it can saved as service for system wide Standard Response goodness.
+The `scalzi_generator.workflow.zip` unpacks into a workflow file that is used by the Mac OS X Automator app. From there it can saved as service for system wide Standard Response goodness.
